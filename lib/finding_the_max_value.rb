@@ -3,7 +3,7 @@ count = 0
 count2 = 1
 big_boi = 0
 while count<array.length do 
- big_boi = array[count]>array[count2]
+if big_boi = array[count]>array[count2]
     
   
   
