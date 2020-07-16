@@ -3,10 +3,12 @@ count = 0
 count2 = 2
 big_boi = 0
 while count<array.length do 
-  if big_boi =  array[count]>array[count2]
+ big_boi = array[count]>array[count2]
+    
   
   
   count += 1
+  count += 2 
 end
 return big_boi
 end
