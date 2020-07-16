@@ -9,7 +9,7 @@ if array[count]>array[count2]
   
   
   count += 1
-  count += 1 
+  count2 += 1 
 end
 return big_boi
 end
